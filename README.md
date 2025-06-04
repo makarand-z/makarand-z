@@ -1,4 +1,4 @@
-# Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm [Makarand](https://www.linkedin.com/in/makarand-z/) and welcome to my GitHub profile! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+# Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm [Makarand](https://www.linkedin.com/in/makarandzende/) and welcome to my GitHub profile! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 ### About Me:
 
