@@ -47,6 +47,7 @@ Output:
   <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-222244?style=for-the-badge" /></a>
   <a href="https://huggingface.co/transformers/"><img src="https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
   <a href="https://www.gradio.app/"><img src="https://img.shields.io/badge/Gradio-FF6F61?style=for-the-badge" /></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
 </p>
 
 #### Data Platforms
@@ -75,6 +76,7 @@ Output:
   <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /></a>
   <a href="https://airbyte.com/"><img src="https://img.shields.io/badge/Airbyte-3E5DFE?style=for-the-badge" /></a>
   <a href="https://www.alteryx.com/"><img src="https://img.shields.io/badge/Alteryx-003366?style=for-the-badge" /></a>
+  <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services"><img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge" alt="SSIS" /></a>
   <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
