@@ -1,18 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:a259c0,100:fbc2eb&height=170&section=header&text=Hey%20there!👋&fontSize=40)
-<!-- Purple: Color Code 833ab4
-Pink: Color Code feac5e
-Red: Color Code e53935
-Orange: Color Code ff6a00
-Yellow: Color Code FFFF00 -->
+# 🌟Hey there!👋 I'm Makarand
+
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:336FB7,50:4589D9,100:7CA7DE&height=300&section=header&text=Makarand%20Zende&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%7C%20Business%20Intelligence%20Analyst%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=55&fontColor=BEBEBE)
+
+  <a href="http://www.linkedin.com/in/makarandzende"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:makarandzende.dataeng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+</div>
 
 ## "If it works, don't touch it!"
 
 - 🤖 I’m currently exploring GenAI applications for analytics workflows (dev + automation)
 - 🌱 Open to new challenges and opportunities to grow
-- 🌟 Always curious and learning
+- ✨ Always curious and learning
 - 🌍 Love exploring new places!
 
-#### ```select experience, skills from makz1710;```
+#### ```select experience, skills from makarand_zende;```
 
 > ⚡ here’s what you’ll find!
 
@@ -95,13 +99,9 @@ Output:
   <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=makarand-z&label=Profile%20views&color=0e75b6&style=flat" alt="makarand-z" /> </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-### 🤝 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/makarandzende)
-[![Email](https://img.shields.io/badge/Email-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:makarand.zende@yahoo.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=makarand-z&label=Profile%20views&color=0e75b6&style=flat" alt="makarand-z" /> </p>
