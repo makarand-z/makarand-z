@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:336FB7,50:4589D9,100:7CA7DE&height=300&section=header&text=Makarand%20Zende&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%7C%20Business%20Intelligence%20Analyst%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=55&fontColor=BEBEBE)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:336FB7,50:4589D9,100:7CA7DE&height=300&section=header&text=Makarand%20Zende&fontSize=80&fontAlignY=40&desc=Data%20Engineer%20%7C%20Business%20Intelligence%20Analyst%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=55&fontColor=BEBEBE)
 
   <a href="http://www.linkedin.com/in/makarandzende"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:makarandzende.dataeng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
